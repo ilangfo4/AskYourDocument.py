@@ -1,0 +1,15 @@
+storage
+storage/*
+*.pyc
+*~
+\#*\#
+.\#*
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+*.key
+env/*
+ask_your_document_GUI.spec
+build/*
+dist/*
